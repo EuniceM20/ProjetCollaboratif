@@ -1,2 +1,3 @@
-« Ce projet est un exercice pour apprendre Git et GitHub. ih ih mamaehhhhhhhh
-»
+
+« Ce projet est un exercice pour apprendre Git et GitHub»
+
